@@ -1,5 +1,6 @@
 //
 //  History:
+//  13-aug-23, dvh  nur für den pull-request
 //  13-aug-23, dvh  update
 //  12-aug-23, dvh  noch ein update (danach)
 //  14-nov-22, dvh  JavaDoc: comment width of field 'bemerkung'
