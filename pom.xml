@@ -10,7 +10,7 @@
   <name>testThings2</name>
 
   <properties>
-      <java.version>17</java.version>
+    <java.version>17</java.version>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.plugin.validation>VERBOSE</maven.plugin.validation>   <!-- [BRIEF, DEFAULT, VERBOSE] -->
   </properties>
