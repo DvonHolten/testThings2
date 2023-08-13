@@ -12,9 +12,31 @@ import java.time.LocalDate;
 import java.time.ZoneOffset;
 import java.util.Date;
 
-import org.junit.jupiter.api.Test;
+import org.junit.jupiter.api.*;
 
 class SalesProductTest {
+
+
+    @BeforeAll
+    static void beforeAllMethod() {
+
+    }
+
+    @BeforeEach
+    void beforeEachMethod(){
+
+    }
+
+    @AfterEach
+    void afterEachMethod(){
+
+    }
+
+    @AfterAll
+    static void afterAllMethod(){
+
+    }
+
 
     /**
      * Methods under test:
